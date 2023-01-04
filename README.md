@@ -1,5 +1,5 @@
 # Postman-reqres-exercise
-Project resulting from exploratory API testing/ learning
+Postman/API testing project using the reqres demo site
 
 reqres site for API testing: https://reqres.in/
 Postman JSON(include in repository): https://api.postman.com/collections/24855208-cab2babf-9439-4003-829b-2cb30002983c?access_key=PMAT-01GNYX3FPAABNZM0VZ294VGC2E
